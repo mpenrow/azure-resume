@@ -1,1 +1,1 @@
-# Your frontend lives here
+# Your frontend live here
